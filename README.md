@@ -2,6 +2,7 @@
 Aliases to make life easier
 
 # Open .bash_profile / .zprofile in your ~ directory / 'touch filename'
+open .zprofile
   
 # Pycharm open
 alias pyc='open -na "PyCharm CE"'
