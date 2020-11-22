@@ -1,7 +1,7 @@
 # mac-aliases
 Aliases to make life easier
 
-# Open .bash_profile / .zprofile in your ~ directory / 'touch <file>'
+# Open .bash_profile / .zprofile in your ~ directory / 'touch filename'
   
 # Pycharm open
 alias pyc='open -na "PyCharm CE"'
